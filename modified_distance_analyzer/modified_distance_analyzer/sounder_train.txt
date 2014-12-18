@@ -1,0 +1,6 @@
+Seattle Tukwila 10.9 
+Kent Auburn 5.5
+Auburn Sumner 9.2
+Sumner Puyallup 4.5
+Puyallup Tacoma 11.1
+Tacoma Lakewood 10.8

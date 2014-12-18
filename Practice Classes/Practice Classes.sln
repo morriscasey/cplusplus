@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice Classes", "Practice Classes\Practice Classes.vcxproj", "{BB2A06CF-81F8-446B-9884-3A0840AE9DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2A06CF-81F8-446B-9884-3A0840AE9DDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB2A06CF-81F8-446B-9884-3A0840AE9DDA}.Debug|Win32.Build.0 = Debug|Win32
+		{BB2A06CF-81F8-446B-9884-3A0840AE9DDA}.Release|Win32.ActiveCfg = Release|Win32
+		{BB2A06CF-81F8-446B-9884-3A0840AE9DDA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

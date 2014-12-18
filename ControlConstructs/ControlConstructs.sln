@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlConstructs", "ControlConstructs\ControlConstructs.vcxproj", "{6A5B1C83-5021-4D8A-BDB4-F5F8DD37F172}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistanceAnalyzer", "DistanceAnalyzer\DistanceAnalyzer.vcxproj", "{1885DE4C-C902-4155-8B03-1BB9C04B77F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlContructsRedux", "ControlContructsRedux\ControlContructsRedux.vcxproj", "{A1F7D5D3-2130-4ADF-B18A-B6CB971FFD8E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindChillChart", "WindChillChart\WindChillChart.vcxproj", "{856BAB1A-C5AA-40AE-9D20-CAC306BE9F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5B1C83-5021-4D8A-BDB4-F5F8DD37F172}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6A5B1C83-5021-4D8A-BDB4-F5F8DD37F172}.Debug|Win32.Build.0 = Debug|Win32
+		{6A5B1C83-5021-4D8A-BDB4-F5F8DD37F172}.Release|Win32.ActiveCfg = Release|Win32
+		{6A5B1C83-5021-4D8A-BDB4-F5F8DD37F172}.Release|Win32.Build.0 = Release|Win32
+		{1885DE4C-C902-4155-8B03-1BB9C04B77F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1885DE4C-C902-4155-8B03-1BB9C04B77F5}.Debug|Win32.Build.0 = Debug|Win32
+		{1885DE4C-C902-4155-8B03-1BB9C04B77F5}.Release|Win32.ActiveCfg = Release|Win32
+		{1885DE4C-C902-4155-8B03-1BB9C04B77F5}.Release|Win32.Build.0 = Release|Win32
+		{A1F7D5D3-2130-4ADF-B18A-B6CB971FFD8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1F7D5D3-2130-4ADF-B18A-B6CB971FFD8E}.Debug|Win32.Build.0 = Debug|Win32
+		{A1F7D5D3-2130-4ADF-B18A-B6CB971FFD8E}.Release|Win32.ActiveCfg = Release|Win32
+		{A1F7D5D3-2130-4ADF-B18A-B6CB971FFD8E}.Release|Win32.Build.0 = Release|Win32
+		{856BAB1A-C5AA-40AE-9D20-CAC306BE9F85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{856BAB1A-C5AA-40AE-9D20-CAC306BE9F85}.Debug|Win32.Build.0 = Debug|Win32
+		{856BAB1A-C5AA-40AE-9D20-CAC306BE9F85}.Release|Win32.ActiveCfg = Release|Win32
+		{856BAB1A-C5AA-40AE-9D20-CAC306BE9F85}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

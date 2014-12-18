@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers", "Pointers\Pointers.vcxproj", "{FC47864C-0F8D-43EF-A178-897F8CECBBBC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{1E65A2A6-A6CB-4513-AAA9-E892B4B6E939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC47864C-0F8D-43EF-A178-897F8CECBBBC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC47864C-0F8D-43EF-A178-897F8CECBBBC}.Debug|Win32.Build.0 = Debug|Win32
+		{FC47864C-0F8D-43EF-A178-897F8CECBBBC}.Release|Win32.ActiveCfg = Release|Win32
+		{FC47864C-0F8D-43EF-A178-897F8CECBBBC}.Release|Win32.Build.0 = Release|Win32
+		{1E65A2A6-A6CB-4513-AAA9-E892B4B6E939}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E65A2A6-A6CB-4513-AAA9-E892B4B6E939}.Debug|Win32.Build.0 = Debug|Win32
+		{1E65A2A6-A6CB-4513-AAA9-E892B4B6E939}.Release|Win32.ActiveCfg = Release|Win32
+		{1E65A2A6-A6CB-4513-AAA9-E892B4B6E939}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

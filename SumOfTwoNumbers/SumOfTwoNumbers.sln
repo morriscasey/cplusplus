@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.vcxproj", "{015AB710-23CC-46CF-994E-E9CEC4628280}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SalesTax", "SalesTax\SalesTax.vcxproj", "{408B0AF4-23B4-4285-BE59-B644F6A9299A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DistancePerTankOfGas", "DistancePerTankOfGas\DistancePerTankOfGas.vcxproj", "{0257C402-7A22-4FDD-9C45-EA83F05C2F0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LandCalculation", "LandCalculation\LandCalculation.vcxproj", "{5AEB333B-4E1C-4D96-A9B5-492B78B16F6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnergyDrinkConsumption", "EnergyDrinkConsumption\EnergyDrinkConsumption.vcxproj", "{86C20FD4-C20E-416E-B117-AB17BDE39167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015AB710-23CC-46CF-994E-E9CEC4628280}.Debug|Win32.ActiveCfg = Debug|Win32
+		{015AB710-23CC-46CF-994E-E9CEC4628280}.Debug|Win32.Build.0 = Debug|Win32
+		{015AB710-23CC-46CF-994E-E9CEC4628280}.Release|Win32.ActiveCfg = Release|Win32
+		{015AB710-23CC-46CF-994E-E9CEC4628280}.Release|Win32.Build.0 = Release|Win32
+		{408B0AF4-23B4-4285-BE59-B644F6A9299A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{408B0AF4-23B4-4285-BE59-B644F6A9299A}.Debug|Win32.Build.0 = Debug|Win32
+		{408B0AF4-23B4-4285-BE59-B644F6A9299A}.Release|Win32.ActiveCfg = Release|Win32
+		{408B0AF4-23B4-4285-BE59-B644F6A9299A}.Release|Win32.Build.0 = Release|Win32
+		{0257C402-7A22-4FDD-9C45-EA83F05C2F0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0257C402-7A22-4FDD-9C45-EA83F05C2F0D}.Debug|Win32.Build.0 = Debug|Win32
+		{0257C402-7A22-4FDD-9C45-EA83F05C2F0D}.Release|Win32.ActiveCfg = Release|Win32
+		{0257C402-7A22-4FDD-9C45-EA83F05C2F0D}.Release|Win32.Build.0 = Release|Win32
+		{5AEB333B-4E1C-4D96-A9B5-492B78B16F6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AEB333B-4E1C-4D96-A9B5-492B78B16F6B}.Debug|Win32.Build.0 = Debug|Win32
+		{5AEB333B-4E1C-4D96-A9B5-492B78B16F6B}.Release|Win32.ActiveCfg = Release|Win32
+		{5AEB333B-4E1C-4D96-A9B5-492B78B16F6B}.Release|Win32.Build.0 = Release|Win32
+		{86C20FD4-C20E-416E-B117-AB17BDE39167}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86C20FD4-C20E-416E-B117-AB17BDE39167}.Debug|Win32.Build.0 = Debug|Win32
+		{86C20FD4-C20E-416E-B117-AB17BDE39167}.Release|Win32.ActiveCfg = Release|Win32
+		{86C20FD4-C20E-416E-B117-AB17BDE39167}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

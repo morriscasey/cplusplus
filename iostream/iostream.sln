@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iostream", "iostream\iostream.vcxproj", "{C556D77F-AC26-4B43-A27D-05EDEEDCAF76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reader", "reader\reader.vcxproj", "{61F90FAC-0FF5-4385-B8EF-178486DFC392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C556D77F-AC26-4B43-A27D-05EDEEDCAF76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C556D77F-AC26-4B43-A27D-05EDEEDCAF76}.Debug|Win32.Build.0 = Debug|Win32
+		{C556D77F-AC26-4B43-A27D-05EDEEDCAF76}.Release|Win32.ActiveCfg = Release|Win32
+		{C556D77F-AC26-4B43-A27D-05EDEEDCAF76}.Release|Win32.Build.0 = Release|Win32
+		{61F90FAC-0FF5-4385-B8EF-178486DFC392}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61F90FAC-0FF5-4385-B8EF-178486DFC392}.Debug|Win32.Build.0 = Debug|Win32
+		{61F90FAC-0FF5-4385-B8EF-178486DFC392}.Release|Win32.ActiveCfg = Release|Win32
+		{61F90FAC-0FF5-4385-B8EF-178486DFC392}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

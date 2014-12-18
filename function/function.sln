@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function", "function\function.vcxproj", "{E9EEF071-B1FA-43E2-9B53-DF90324D6A74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParameterPassing", "ParameterPassing\ParameterPassing.vcxproj", "{801EFB0D-7198-406A-93F6-C744522D852F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EEF071-B1FA-43E2-9B53-DF90324D6A74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9EEF071-B1FA-43E2-9B53-DF90324D6A74}.Debug|Win32.Build.0 = Debug|Win32
+		{E9EEF071-B1FA-43E2-9B53-DF90324D6A74}.Release|Win32.ActiveCfg = Release|Win32
+		{E9EEF071-B1FA-43E2-9B53-DF90324D6A74}.Release|Win32.Build.0 = Release|Win32
+		{801EFB0D-7198-406A-93F6-C744522D852F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{801EFB0D-7198-406A-93F6-C744522D852F}.Debug|Win32.Build.0 = Debug|Win32
+		{801EFB0D-7198-406A-93F6-C744522D852F}.Release|Win32.ActiveCfg = Release|Win32
+		{801EFB0D-7198-406A-93F6-C744522D852F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

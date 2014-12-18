@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mid Email2", "Mid Email2\Mid Email2.vcxproj", "{E4B38E0E-1FBC-491B-B248-EDB8B577851C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B38E0E-1FBC-491B-B248-EDB8B577851C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4B38E0E-1FBC-491B-B248-EDB8B577851C}.Debug|Win32.Build.0 = Debug|Win32
+		{E4B38E0E-1FBC-491B-B248-EDB8B577851C}.Release|Win32.ActiveCfg = Release|Win32
+		{E4B38E0E-1FBC-491B-B248-EDB8B577851C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
